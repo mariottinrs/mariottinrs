@@ -1,11 +1,8 @@
 ### Olá Viajante !! Eu sou o Felipe Mariotto 😁
 <br>
-<br>
-![Mariotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true&theme=dracula)
-<br>
-<br>
-## Developing in …
-<br>
+![Mariotto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true)
+
+### Developing in …
 <br>
 
 <div style="display: inline_block">
@@ -17,6 +14,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE" align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" align="center">
 </div>
+
+
 
 
 
