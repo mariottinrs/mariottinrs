@@ -1,5 +1,7 @@
 ### Olá Viajante !! Eu sou o Felipe Mariotto 😁
 <br>
+✏️・ Studying Computer Science at IMT - Instituto Mauá de Tecnologia
+
 
 ### Developing in …
 <br>
