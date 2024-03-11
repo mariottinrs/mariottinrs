@@ -1,6 +1,6 @@
 ### Olá Viajante !! Eu sou o Felipe Mariotto 😁
 <br>
-![Mariotto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true)
+![Mariotto's GitHub stats](github-readme-stats-six-sepia-13.vercel.app/api?username=mariottinrs&show_icons=true&theme=radical)
 
 ### Developing in …
 <br>
