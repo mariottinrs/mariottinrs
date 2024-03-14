@@ -1,11 +1,16 @@
 ### Olá Viajante !! Eu sou o Felipe Mariotto 😁
 <br>
 ✏️・ Studying Computer Science at IMT - Instituto Mauá de Tecnologia
+<br>
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariottinrs&layout=compact&langs_count=16&theme=midnight-purple">
-</div><br>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariottinrs&layout=compact&langs_count=16&theme=midnight-purple">
+</div>
+
+<br>
+<br>
 
 ### Developing in …
 <br>
