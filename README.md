@@ -4,11 +4,6 @@
 <br>
 <br>
 <br>
-<div align="center">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mariottinrs&show_icons=true&theme=radical&include_all_commits=true&acount_private=false">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariottinrs&layout=compact&langs_count=16&theme=radical">
-    </div>
-<br>
 
 ### Developing in …
 <br>
