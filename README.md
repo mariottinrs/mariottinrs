@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### Developing in …
+### Developing in ….
 <br>
 
 <div style="display: inline_block">
